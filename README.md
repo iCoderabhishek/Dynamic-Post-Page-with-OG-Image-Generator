@@ -19,7 +19,7 @@ Before you start, make sure you have the following installed on your machine:
    First, clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/dynamic-og.git
+   git clone https://github.com/your-username/Dynamic-Post-Page-with-OG-Image-Generator.git
    cd dynamic-og
    ```
 
